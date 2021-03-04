@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'fontello';
+  src:  url('/wp-content/plugins/nb-fw/inc/src/fonts/fontello.eot?ww8m6d');
+  src:  url('/wp-content/plugins/nb-fw/inc/src/fonts/fontello.eot?ww8m6d#iefix') format('embedded-opentype'),
+    url('/wp-content/plugins/nb-fw/inc/src/fonts/fontello.ttf?ww8m6d') format('truetype'),
+    url('/wp-content/plugins/nb-fw/inc/src/fonts/fontello.woff?ww8m6d') format('woff'),
+    url('/wp-content/plugins/nb-fw/inc/src/fonts/fontello.svg?ww8m6d#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+ 
+[class^="nb-fw-icon-"], [class*=" nb-fw-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'fontello' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.nb-fw-icon-twitter:before {
+  content: "\f099";
+}
+.nb-fw-icon-facebook:before {
+  content: "\f09a";
+}
+.nb-fw-icon-gplus:before {
+  content: "\f0d5";
+}
+.nb-fw-icon-linkedin:before {
+  content: "\f0e1";
+}
+.nb-fw-icon-pinterest:before {
+  content: "\f231";
+}
