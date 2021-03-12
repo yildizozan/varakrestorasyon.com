@@ -11,85 +11,11 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Varak &#38; Restorasyon</description>
-	<lastBuildDate>Thu, 11 Jul 2019 08:50:42 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 07 Mar 2021 16:09:44 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.2</generator>
-	<item>
-		<title>
-		Mythological cartel clock yazısına admin tarafından yapılan yorumlar		</title>
-		<link>/product/meissen-style-porcelain-antique-mythological-cartel-clock/#comment-50</link>
-
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 26 Oct 2017 09:07:58 +0000</pubDate>
-		<guid isPermaLink="false">http://demo9.cmsmart.net/antique_3/?post_type=product&#038;p=37#comment-50</guid>
-
-					<description><![CDATA[good]]></description>
-			<content:encoded><![CDATA[<p>good</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Silvered and gilt bronze yazısına admin tarafından yapılan yorumlar		</title>
-		<link>/product/silvered-and-gilt-bronze-antique-mantel-clock-by-beurdeley/#comment-48</link>
-
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 12 Oct 2017 03:33:17 +0000</pubDate>
-		<guid isPermaLink="false">http://demo9.cmsmart.net/antique_3/?post_type=product&#038;p=36#comment-48</guid>
-
-					<description><![CDATA[good]]></description>
-			<content:encoded><![CDATA[<p>good</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Mythological cartel clock yazısına admin tarafından yapılan yorumlar		</title>
-		<link>/product/meissen-style-porcelain-antique-mythological-cartel-clock/#comment-49</link>
-
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 12 Oct 2017 03:32:55 +0000</pubDate>
-		<guid isPermaLink="false">http://demo9.cmsmart.net/antique_3/?post_type=product&#038;p=37#comment-49</guid>
-
-					<description><![CDATA[good theme !]]></description>
-			<content:encoded><![CDATA[<p>good theme !</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Acid etches ewer bu baccarat yazısına admin tarafından yapılan yorumlar		</title>
-		<link>/product/frosted-glass-and-acid-etched-antique-ewer-by-baccarat/#comment-51</link>
-
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 12 Oct 2017 03:25:21 +0000</pubDate>
-		<guid isPermaLink="false">http://demo9.cmsmart.net/antique_3/?post_type=product&#038;p=77#comment-51</guid>
-
-					<description><![CDATA[good]]></description>
-			<content:encoded><![CDATA[<p>good</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Retail Spotlight: the Role of Digitization in Clarra yazısına A WordPress Commenter tarafından yapılan yorumlar		</title>
-		<link>/hello-world/#comment-47</link>
-
-		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Thu, 28 Sep 2017 02:10:29 +0000</pubDate>
-		<guid isPermaLink="false">http://demo9.cmsmart.net/antique_3/?p=1#comment-47</guid>
-
-					<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=\&quot;https://gravatar.com\&quot;/ rel=\&quot;nofollow\&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href=\"https://gravatar.com/" rel=\"nofollow\">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+	<generator>https://wordpress.org/?v=5.7</generator>
+</channel>
 </rss>
